@@ -1,2 +1,2 @@
 # VaraNames
-getting yout human readable domain name on VaraNetwork
+getting your human readable domain name on VaraNetwork
